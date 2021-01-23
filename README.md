@@ -27,7 +27,7 @@ Out of the 22 variables that have been chosen, 8 are categorical in nature, whil
 
 - **Home Possessions**: This index is a summary of all household items from the columns wealth, cultural_possessions and home_educational_resources, but it also included the variable indicating the number of books at home (ST28) which was recoded from the original six categories into three: (0) 0-25 books, (1) 26-100 books, (2) more than 100.
 
-<img src="Possesions table report.png" alt="400" width="800"/>
+<img src="Possesions_table_report.PNG" alt="400" width="800"/>
 
 - **Sense of belonging**: This indicates the degree to which each student feels that he or she belongs to his or her school. The PISA report states that this indicator has a moderate to low reliability. A higher number indicates a higher sense of belonging.
 
