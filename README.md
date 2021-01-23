@@ -1,4 +1,4 @@
-# # Effects of Students Background and Habits on their PISA Scores
+# Effects of Students Background and Habits on their PISA Scores
 
 ### by Rubén Vilela Freire
 Code for project 5 Udacity's Data Analyst Nanodegree
