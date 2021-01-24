@@ -47,7 +47,18 @@ The variables that will serve as a reference point in this dataset will be the s
 
 From an initial point of view, it is expected that the greatest influence on student grades will be associated with increased study time. To a lesser extent, the family context, psychological variables and finally, immigration differences.
 
-### Conclusions
+## Exploration
+
+The data have shown that there is a very strong relationship between the student's family background and his or her grade. More specifically, family possessions are found to have a moderate correlation factor of R = 0.37. In addition, the parents' education has a strong influence on their children's grades, since the average overall grade varies from 380 points out of 1000 in families with no educational certificate, to 500 in families with a university certificate.  Furthermore, children from two-parent and single-parent families have a similar score, although in the case of children who have grown up without any parents this score decreases to almost 100 points less.
+
+Regarding study time, this has a slight correlation of R = 0.11 with the student's overall grade.
+
+In relation to immigration, it is observed that native students tend to have slightly higher grades than their immigrant peers, especially if they use an international language at home, which could be associated with difficulties in the reading test.
+
+The rest of the variables have a lesser effect on the student's grade. It should be noted that girls tend to have higher grades than boys. Also, and as a sign of the influence of psychological factors, children who believe that effort is useful for success and those who study by relating new ideas to pre-existing concepts are the ones who achieve the best results.
+
+
+## Conclusions
 
 - Social class, measured as the number of belongings at home, affects the student's overall score, with a difference of almost 100 points between the high and low social class. The average difference between the high and middle class is 40 points.
 
